@@ -19,3 +19,4 @@
 # Hardware and Software
 * Hardware is any physical device used in or with your machine.
 * Software is a collection of codes installed onto your computer's hard drive.
+# Go  [here](https://raya33.github.io/102r/.)
